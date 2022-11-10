@@ -3,15 +3,21 @@
 
 dans ce fichier README, nous allons expliquer  le système de control de version  **GIT**.
 
+## Qu'est ce que c'est *GIT* :
 
-## Qu'est ce que c'est *GIT* : 
 Git est un projet open source avancé, qui est activement maintenu.
 À l'origine, il a été développé en 2005 par Linus Torvalds, le 
 créateur bien connu du noyau du système d'exploitation Linux.  
 
-## À propos de la gestion de version
+ 1. ## À propos de la gestion de version
 
 Qu’est-ce que la gestion de version et pourquoi devriez-vous vous en soucier ? :confused: 
-**Un gestionnaire de version** est un système qui enregistre l’évolution d’un fichier ou
-d’un ensemble de fichiers au cours du temps de manière à ce qu’on puisse 
-rappeler une version antérieure d’un fichier à tout moment.
+**Un gestionnaire de version** est un système qui enregistre l’évolution et l'historique d’un fichier ou d’un ensemble de fichiers au cours du temps de manière à ce qu’on puisse rappeler une version antérieure d’un fichier à tout moment. 
+
+ 2. ## Qui est concerné ? 
+    
+    **Les éditeurs de logiciels et tous les développeurs de tous les domaines d’activités sont concernés** **:man_technologist:**. Chacun
+    est amené à travailler sur différentes parties du code source lors
+    d’un développement logiciel. Il est donc important d’installer un
+    logiciel de gestion de version pour optimiser ce travail en équipe
+    et s’y retrouver.
