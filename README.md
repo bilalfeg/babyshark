@@ -1,4 +1,4 @@
-# GIT/GITHUB
+# **GIT
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="20%" width="20%">
 
 dans ce fichier README, nous allons expliquer  le système de control de version  **GIT**.
@@ -23,9 +23,18 @@ Qu’est-ce que la gestion de version et pourquoi devriez-vous vous en soucier ?
     et s’y retrouver.
 
 ## Comment ça marche ? Quelles sont les notions de base ?
+
 Il faut comprendre les notions de base de  **dépôt, copie locale, lecture et écriture**.
 
 -   **Dépôt**  : espace de stockage public géré par le logiciel de gestion de version.
 -   **Copie locale**  : copie d’une version en local
 -   **Lecture** : téléchargement d’un fichier situé sur le dépôt
 -   **Écriture** : soumettre les modifications sur le dépôt
+
+## Les branches en bref 
+ Une branche représente une ligne de développement indépendante. Les branches 
+schématisent de façon abstraite le process d'édition, de staging et de commit. 
+Vous pouvez les considérer comme un moyen de demander un nouveau répertoire de travail, 
+une nouvelle zone de staging et un nouvel historique de projet. Les nouveaux 
+commits sont enregistrés dans l'historique de la branche actuelle, 
+ce qui provoque la création d'un fork dans l'historique du projet.
