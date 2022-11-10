@@ -21,3 +21,11 @@ Qu’est-ce que la gestion de version et pourquoi devriez-vous vous en soucier ?
     d’un développement logiciel. Il est donc important d’installer un
     logiciel de gestion de version pour optimiser ce travail en équipe
     et s’y retrouver.
+
+## Comment ça marche ? Quelles sont les notions de base ?
+Il faut comprendre les notions de base de  **dépôt, copie locale, lecture et écriture**.
+
+-   **Dépôt**  : espace de stockage public géré par le logiciel de gestion de version.
+-   **Copie locale**  : copie d’une version en local
+-   **Lecture** : téléchargement d’un fichier situé sur le dépôt
+-   **Écriture** : soumettre les modifications sur le dépôt
